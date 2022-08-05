@@ -7,4 +7,4 @@ Ref - [AlexNet_paper](https://github.com/Zinwaiyan274/AlexNet-Architecture/blob/
 > This is the part of the journey of [ODaD](https://github.com/Zinwaiyan274/One-DS-a-day)
 
 #ODaD
-#Day30
+#Day31
